@@ -1,6 +1,6 @@
 ## Final Project (Intro to Web Development)
 ### Web Development Course at MITT
-### Languages
+Languages:
 > ```HTML```
 > ```CSS```
 
