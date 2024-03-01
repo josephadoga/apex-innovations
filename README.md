@@ -1,6 +1,6 @@
-##Final Project
-###Web Development Course at MITT
-###Languages
+## Final Project
+### Web Development Course at MITT
+### Languages
 > HTML
 > CSS
 
